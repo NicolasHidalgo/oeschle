@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Name": "oeschle\\oeschle.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "reactproject1\\reactproject1.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

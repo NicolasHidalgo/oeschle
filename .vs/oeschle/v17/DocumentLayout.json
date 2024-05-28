@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\oeschle\\oeschle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\src\\components\\showemployees.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\components\\showemployees.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\src\\components\\sidebarmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\components\\sidebarmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|d:\\proyectos\\oeschle\\oeschle\\reactproject1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{58F67F16-8E38-44C7-B5A5-7E10BBCB13F1}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\proyectos\\oeschle\\oeschle\\consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\proyectos\\oeschle\\oeschle\\consoleapp1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\proyectos\\oeschle\\oeschle\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\proyectos\\oeschle\\oeschle\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\EULA.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\ThirdPartyNotices.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\proyectos\\oeschle\\oeschle\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\proyectos\\oeschle\\oeschle\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65AFDDE2-D2BA-48B2-BBD9-8420C2144D0F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\oeschle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\oeschle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\repository\\implementation\\employeeimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\repository\\implementation\\employeeimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|d:\\proyectos\\oeschle\\oeschle\\oeschle\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B139A11-1965-4431-BDBC-DF996F3CEF0C}|oeschle\\oeschle.csproj|solutionrelative:oeschle\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T13:09:21.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\Dockerfile",
+              "RelativeDocumentMoniker": "reactproject1\\Dockerfile",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\Dockerfile",
+              "RelativeToolTip": "reactproject1\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T13:09:19.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SidebarMenu.jsx",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\components\\SidebarMenu.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\components\\SidebarMenu.jsx",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\components\\SidebarMenu.jsx",
+              "RelativeToolTip": "reactproject1\\src\\components\\SidebarMenu.jsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-28T05:12:07.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\README.md",
+              "RelativeDocumentMoniker": "reactproject1\\README.md",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\README.md",
+              "RelativeToolTip": "reactproject1\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-28T04:58:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowEmployees.jsx",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\components\\ShowEmployees.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\components\\ShowEmployees.jsx",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\components\\ShowEmployees.jsx",
+              "RelativeToolTip": "reactproject1\\src\\components\\ShowEmployees.jsx",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwFMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-28T04:18:54.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".eslintrc.cjs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\.eslintrc.cjs",
+              "RelativeDocumentMoniker": "reactproject1\\.eslintrc.cjs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\.eslintrc.cjs",
+              "RelativeToolTip": "reactproject1\\.eslintrc.cjs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T04:14:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\.gitignore",
+              "RelativeDocumentMoniker": "reactproject1\\.gitignore",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\.gitignore",
+              "RelativeToolTip": "reactproject1\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-28T04:14:19.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nuget.config",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\nuget.config",
+              "RelativeDocumentMoniker": "reactproject1\\nuget.config",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\nuget.config",
+              "RelativeToolTip": "reactproject1\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-28T04:12:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\index.html",
+              "RelativeDocumentMoniker": "reactproject1\\index.html",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\index.html",
+              "RelativeToolTip": "reactproject1\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-28T04:11:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\App.css",
+              "RelativeDocumentMoniker": "reactproject1\\src\\App.css",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\App.css",
+              "RelativeToolTip": "reactproject1\\src\\App.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T04:05:53.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\index.css",
+              "RelativeDocumentMoniker": "reactproject1\\src\\index.css",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\index.css",
+              "RelativeToolTip": "reactproject1\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T04:05:51.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\main.jsx",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\main.jsx",
+              "RelativeToolTip": "reactproject1\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-28T04:05:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\App.jsx",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\src\\App.jsx",
+              "RelativeToolTip": "reactproject1\\src\\App.jsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-28T04:05:30.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\package.json",
+              "RelativeDocumentMoniker": "reactproject1\\package.json",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\package.json",
+              "RelativeToolTip": "reactproject1\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T04:05:25.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\vite.config.js",
+              "RelativeDocumentMoniker": "reactproject1\\vite.config.js",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\reactproject1\\vite.config.js",
+              "RelativeToolTip": "reactproject1\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T04:05:21.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThirdPartyNotices.txt",
+              "DocumentMoniker": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\ThirdPartyNotices.txt",
+              "ToolTip": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\ThirdPartyNotices.txt [Solo lectura]",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-28T01:25:33.832Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EULA.md",
+              "DocumentMoniker": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\EULA.md",
+              "ToolTip": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\EULA.md [Solo lectura]",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-28T01:25:32.843Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\CHANGELOG.md [Solo lectura]",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-28T01:25:28.168Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "DocumentMoniker": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "ToolTip": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets [Solo lectura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-28T01:25:24.128Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props",
+              "DocumentMoniker": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props",
+              "ToolTip": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props [Solo lectura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-28T01:25:22.386Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T00:56:29.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Dockerfile",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\Dockerfile",
+              "RelativeToolTip": "ConsoleApp1\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T00:41:05.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\appsettings.json",
+              "RelativeDocumentMoniker": "oeschle\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\appsettings.json",
+              "RelativeToolTip": "oeschle\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T23:39:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsoleApp1\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\appsettings.json",
+              "RelativeToolTip": "ConsoleApp1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T23:38:05.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T23:17:13.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Employee.cs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp1\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:08:00.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:24:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "oeschle",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\oeschle.csproj",
+              "RelativeDocumentMoniker": "oeschle\\oeschle.csproj",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\oeschle.csproj",
+              "RelativeToolTip": "oeschle\\oeschle.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T21:45:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-27T21:29:26.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Dockerfile",
+              "RelativeDocumentMoniker": "oeschle\\Dockerfile",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Dockerfile",
+              "RelativeToolTip": "oeschle\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T19:45:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeImplementation.cs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Repository\\Implementation\\EmployeeImplementation.cs",
+              "RelativeDocumentMoniker": "oeschle\\Repository\\Implementation\\EmployeeImplementation.cs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Repository\\Implementation\\EmployeeImplementation.cs",
+              "RelativeToolTip": "oeschle\\Repository\\Implementation\\EmployeeImplementation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:17:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Program.cs",
+              "RelativeDocumentMoniker": "oeschle\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Program.cs",
+              "RelativeToolTip": "oeschle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:16:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "oeschle\\Models\\Employee.cs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Models\\Employee.cs",
+              "RelativeToolTip": "oeschle\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:03:45.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DEMOController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Controllers\\DEMOController.cs",
+              "RelativeDocumentMoniker": "oeschle\\Controllers\\DEMOController.cs",
+              "ToolTip": "D:\\Proyectos\\oeschle\\oeschle\\oeschle\\Controllers\\DEMOController.cs",
+              "RelativeToolTip": "oeschle\\Controllers\\DEMOController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvygAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:56:03.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
